@@ -1,0 +1,19 @@
+{
+  "name": "ddeps",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocka ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lindsor/ddeps.git"
+  },
+  "author": "Marcelo Luz <marcelopluz@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Lindsor/ddeps/issues"
+  },
+  "homepage": "https://github.com/Lindsor/ddeps#readme"
+}
